@@ -1,8 +1,8 @@
-Q1 . Create a variable of type string and try to add a number to it
-Q2. Use typeof in previous question to find typeof of the result object
-Q3. Create a const , can you change it to hold a number later
-Q4. Try to add a new key to const object in Q3 . Are you able to do it
-
+Q1 . Create a variable of type string and try to add a number to it \n
+Q2. Use typeof in previous question to find typeof of the result object \n
+Q3. Create a const , can you change it to hold a number later \n
+Q4. Try to add a new key to const object in Q3 . Are you able to do it \n
+ 
 ```
 // Q1 
 let a = "Anubhav";
