@@ -42,7 +42,6 @@ h
 a
 v
 */ 
-
-
+ 
 iterable -> iterable data structure like arrays , string etc
 ```
