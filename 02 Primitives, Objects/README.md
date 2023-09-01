@@ -21,15 +21,16 @@ let f ; // same as undefined ;
 let g = Symbol("I am a symbol")
 
 console.log(a,b,c,d,e,f,g);
-console.log("\n")
-console.log(typeof a);
-console.log(typeof b);
-console.log(typeof c);
-console.log(typeof d);
-console.log(typeof e);
-console.log(typeof f);
-console.log(typeof g);
 
+
+
+console.log(typeof a);  // object
+console.log(typeof b);  // number
+console.log(typeof c);  // boolean
+console.log(typeof d);  // bigint
+console.log(typeof e);  // undefined
+console.log(typeof f);  // undefined
+console.log(typeof g);  // symbol
 
 ```
 
